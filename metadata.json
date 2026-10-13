@@ -1,0 +1,10 @@
+{
+  "name": "Remix AuraHealth Copilot - AI Personal Health \u0026 Wellness Dashboard",
+  "description": "An AI-powered personal health copilot featuring temporal lab report analysis, voice doubts assistant, predictive risk alerts, wellness trackers, reminders, and regional translations.",
+  "requestFramePermissions": [
+    "MICROPHONE"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
